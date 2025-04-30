@@ -12,3 +12,8 @@
 ``` javascript
 var varone = "This is a portfolio page";
 ```
+
+
+- [x] created a repo
+- [x] updated index.md file
+- [ ] This item is not complete
